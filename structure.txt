@@ -1,0 +1,21 @@
+credit_risk_pipeline/
+│
+├── data/
+│   └── credit.db             
+│
+├── outputs/                 
+│   ├── model_plots/
+│   └── report_plots/
+│
+├── src/
+│   ├── __init__.py
+│   ├── pipeline_etl.py      
+│   ├── analytics.py         
+│   ├── model.py             
+│   └── plots.py             
+│
+├── main.py                  
+├── app.py                   
+├── .gitignore               
+├── requirements.txt         
+└── README.md                

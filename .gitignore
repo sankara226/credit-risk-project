@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+*.db
+*.sqlite
+outputs/
+env/
+venv/
+ENV/
+.env
+.streamlit/
+.DS_Store
+.vscode/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Do not commit credentials or secrets
+kaggle.json
+
+# Git LFS pointer files (if you use LFS for large files)
+*.gitattributes
