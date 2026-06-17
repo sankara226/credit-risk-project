@@ -18,7 +18,7 @@ def load_warehouse_data() -> pd.DataFrame:
 
 df = load_warehouse_data()
 
-st.title("💳 Credit Risk & Portfolio Delinquency Dashboard")
+st.title("Credit Risk & Portfolio Delinquency Dashboard")
 st.markdown("Automated diagnostic system analyzing default probabilities across balances, income tiers, and student cohorts.")
 st.hr()
 
